@@ -24,8 +24,6 @@ dependencies:
   - comm=0.1.2=py311h06a4308_0
   - cryptography=41.0.7=py311hdda0065_0
   - cyrus-sasl=2.1.28=h52b45da_1
-  - daal4py=2023.1.1=py311h4cb112f_0
-  - dal=2023.1.1=hdb19cb5_48680
   - dbus=1.13.18=hb2f20db_0
   - debugpy=1.6.7=py311h6a678d5_0
   - decorator=5.1.1=pyhd3eb1b0_0
@@ -90,8 +88,6 @@ dependencies:
   - mkl-service=2.4.0=py311h5eee18b_1
   - mkl_fft=1.3.8=py311h5eee18b_0
   - mkl_random=1.2.4=py311hdb19cb5_0
-  - mpi=1.0=mpich
-  - mpich=4.1.1=hbae89fd_0
   - mysql=5.7.24=h721c034_2
   - nbclient=0.8.0=py311h06a4308_0
   - nbconvert=7.10.0=py311h06a4308_0
@@ -144,7 +140,6 @@ dependencies:
   - rfc3986-validator=0.1.1=py311h06a4308_0
   - rpds-py=0.10.6=py311hb02cf49_0
   - scikit-learn=1.2.2=py311h6a678d5_1
-  - scikit-learn-intelex=2023.1.1=py311h06a4308_0
   - scipy=1.11.4=py311h08b1b3b_0
   - send2trash=1.8.2=py311h06a4308_0
   - setuptools=68.2.2=py311h06a4308_0
