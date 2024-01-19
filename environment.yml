@@ -9,4 +9,5 @@ dependencies:
   - scipy=1.11.4
   - pandas=2.1.4
   - gurobi::gurobi=11.0.0
+  - jupyter=1.0.0
 prefix: /home/amarov/anaconda3/envs/lp2024
